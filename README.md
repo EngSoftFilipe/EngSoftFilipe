@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left"> Tecnologias até o momento</h2>
+<h2 align="left" translate="no"> Tecnologias até o momento</h2>
 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" />
@@ -21,7 +21,7 @@
 <!-- Linha separadora -->
 <hr/>
 
-<h2 align="left"> Tecnologias em breve</h2>
+<h2 align="left" translate="no"> Tecnologias em breve</h2>
 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" />
