@@ -1,8 +1,8 @@
-<h1 align="center">Olá! seja bem-vindo ao Github de um futuro engenheiro de software 👋</h1>
+<h1 align="center">Olá! seja bem-vindo ao Github de um futuro engenheiro de software </h1>
 
 ###
 
-<h2 align="left">🔥 Tecnologias até o momento</h2>
+<h2 align="left"> Tecnologias até o momento</h2>
 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" />
@@ -21,7 +21,7 @@
 <!-- Linha separadora -->
 <hr/>
 
-<h2 align="left">🚀 Tecnologias em breve</h2>
+<h2 align="left"> Tecnologias em breve</h2>
 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" />
@@ -47,7 +47,8 @@
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
+<hr/>
+<h2 align="left"> Estatísticas</h2>
 
 <div align="center">
   <!-- Estatísticas gerais -->
