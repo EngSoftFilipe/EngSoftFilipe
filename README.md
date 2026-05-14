@@ -1,8 +1,8 @@
-<h1 align="center">Olá! seja bem-vindo ao Github de um futuro engenheiro de software </h1>
+<h1 align="center" translate="no">Olá! seja bem-vindo ao Github de um futuro engenheiro de software </h1>
 
 ###
 
-<h2 align="left" translate="no"> Tecnologias até o momento</h2>
+<h2 align="left" translate="no"> Até o momento</h2>
 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" />
@@ -21,7 +21,7 @@
 <!-- Linha separadora -->
 <hr/>
 
-<h2 align="left" translate="no"> Tecnologias em breve</h2>
+<h2 align="left" translate="no"> Em breve</h2>
 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="40" />
@@ -48,7 +48,7 @@
 ###
 
 <hr/>
-<h2 align="left"> Estatísticas</h2>
+<h2 align="left" translate="no"> Estatísticas</h2>
 
 <div align="center">
   <!-- Estatísticas gerais -->
@@ -58,7 +58,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EngSoftFilipe&layout=compact&langs_count=6&theme=omni&locale=pt-br&hide_border=true" height="150" />
   
   <!-- Gráfico de atividades -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSoftFilipe&theme=tokyo-night&area=true&hide_border=true" height="300" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSoftFilipe&theme=tokyo-night&area=true&hide_border=true&locale=pt-br" height="300" />
   
   <!-- Separador -->
   <br/>
