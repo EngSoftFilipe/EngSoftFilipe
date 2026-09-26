@@ -1,4 +1,4 @@
-<h1 align="center" translate="no">Olá! seja bem-vindo ao Github de um futuro engenheiro de software </h1>
+<h1 align="center" translate="no">Olá! Seja bem-vindo ao Github de um futuro engenheiro de software </h1>
 
 ###
 
@@ -48,12 +48,12 @@
   <img width="12" />
   <img src="https://devicon-website.vercel.app/api/github/original.svg?color=white" height="40" />
   <img width="12" />
-  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="40" />
-  <img width="12" />
+  <img src="https://devicon-website.vercel.app/api/docker/original.svg" height="50" />
+  <img width="15" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Kubernetes_logo_without_workmark.svg" height="40" />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="40" />
-  <img width="12" />  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" height="35" />
+  <img width="10" />  
 </div>
 
 ###
