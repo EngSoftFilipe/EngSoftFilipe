@@ -11,6 +11,8 @@
   <img width="11" />
   <img src="https://devicon-website.vercel.app/api/mysql/original.svg" height="35" />
   <img width="11" />
+  <img src="https://devicon-website.vercel.app/api/mongodb/original.svg" height="35" />
+  <img width="11" />
   <img src="https://devicon-website.vercel.app/api/nodejs/original.svg" height="35" />
   <img width="11" />
   <img src="https://devicon-website.vercel.app/api/git/original.svg" height="35" />
