@@ -1,9 +1,9 @@
 <h1 align="center" translate="no">Olá! Seja bem-vindo ao Github de um futuro engenheiro de software </h1>
-
+ 
 ###
-
+ 
 <h2 align="left" translate="no"> Até o momento</h2>
-
+ 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="35" />
   <img width="11" />
@@ -21,12 +21,11 @@
 </div>
 
 ###
-
+ 
 <!-- Linha separadora -->
 <hr/>
-
 <h2 align="left" translate="no"> Em breve</h2>
-
+ 
 <div align="left">
   <img src="https://devicon-website.vercel.app/api/java/original.svg" height="35" />
   <img width="11" />
@@ -40,7 +39,7 @@
   <img width="11" />
   <img src="https://devicon-website.vercel.app/api/typescript/original.svg" height="35" />
   <img width="11" />
-  <img src="https://devicon-website.vercel.app/api/angularjs/original.svg" height="35" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" height="35" />
   <img width="11" />
   <img src="https://devicon-website.vercel.app/api/react/original.svg" height="35" />
   <img width="11" />
@@ -59,13 +58,12 @@
 </div>
 
 ###
-
+ 
 <hr/>
 <h2 align="left" translate="no"> Estatísticas</h2>
-
 <div align="center">
   <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EngSoftFilipe&show_icons=true&include_all_commits=true&count_private=true&theme=omni&locale=pt-br&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngSoftFilipe&show_icons=true&include_all_commits=true&theme=omni&locale=pt-br&hide_border=true" height="150" />
   
   <!-- Linguagens mais usadas -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EngSoftFilipe&layout=compact&langs_count=6&theme=omni&locale=pt-br&hide_border=true" height="150" />
@@ -79,5 +77,15 @@
   <br/>
   
   <!-- Gráfico de commits diários (streak) -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=EngSoftFilipe&theme=tokyonight&hide_border=true&locale=pt-br" height="200" />
+  <img src="https://streak-stats.demolab.com/?user=EngSoftFilipe&theme=tokyonight&hide_border=true&locale=pt_BR" height="200" />
+</div>
+
+###
+ 
+<hr/>
+<h2 align="left" translate="no"> Contato</h2>
+<div align="left">
+  <a href="https://www.linkedin.com/in/filipe-gabriel-8450a5294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
