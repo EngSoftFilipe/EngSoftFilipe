@@ -61,23 +61,25 @@
  
 <hr/>
 <h2 align="left" translate="no"> Estatísticas</h2>
+
 <div align="center">
-  <!-- Estatísticas gerais -->
-  <img src="https://github-readme-stats.vercel.app/api?username=EngSoftFilipe&show_icons=true&include_all_commits=true&theme=omni&locale=pt-br&hide_border=true" height="150" />
-  
-  <!-- Linguagens mais usadas -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=EngSoftFilipe&layout=compact&langs_count=6&theme=omni&locale=pt-br&hide_border=true" height="150" />
-  
-  <!-- Gráfico de atividades -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=EngSoftFilipe&theme=tokyo-night&area=true&hide_border=true&locale=pt-br" height="300" />
-  
-  <!-- Separador -->
+  <!-- Linha 1: resumo do perfil -->
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" width="100%" />
   <br/>
-  <hr/>
+
+  <!-- Linha 2: linguagens -->
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" width="49%" />
   <br/>
-  
-  <!-- Gráfico de commits diários (streak) -->
-  <img src="https://streak-stats.demolab.com/?user=EngSoftFilipe&theme=tokyonight&hide_border=true&locale=pt_BR" height="200" />
+
+  <!-- Linha 3: números e horário -->
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" width="49%" />
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" width="49%" />
+  <br/>
+  <br/>
+
+  <!-- Linha 4: sequência -->
+  <img src="https://streak-stats.demolab.com/?user=EngSoftFilipe&theme=tokyonight&hide_border=true&locale=pt_BR" />
 </div>
 
 ###
